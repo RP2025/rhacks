@@ -23,9 +23,9 @@ We have build a speech emotion recognition classifier
 
 ## Roles of team members
 
-1. Preetish Patel - Combining all the four datasets into single dataframe, Data Visualisation and Exploration, Data augmentation, Feature extraction, Data Preparation
-2. Abhinav Arora - Building a neural network model on preprocessed data, achieving the best accuracy of 60% on 8 classes after a series of experiments
-3. Vatsal Savaliya & Abhinay Pandey - Deploying the saved model on web application using flask and creating a basic design of website using html
+1. Raksha Pahariya - Combining all the four datasets into single dataframe, Data Visualisation and Exploration, Data augmentation, Feature extraction, Data Preparation
+2. Arihant Jain - Building a neural network model on preprocessed data, achieving the best accuracy of 60% on 8 classes after a series of experiments
+3. Ashlesha Gautam and Devans Soni - Deploying the saved model on web application using flask and creating a basic design of website using html
 
 ## How to run the project on your system ?
 
