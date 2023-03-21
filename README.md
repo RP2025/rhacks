@@ -1,6 +1,6 @@
 
 ## NoobCoders -- Speech Emotion Recognition
-Develop solutions that use AI to solve complex problems of mental health and offer personalized results to people worldwide, the solution should be scalable, adaptable to various cultures and languages, and incorporate the most recent developments in AI technology.
+Under Rajasthan IT Day 2023 - Develop solutions that use AI to solve complex problems of mental health and offer personalized results to people worldwide, the solution should be scalable, adaptable to various cultures and languages, and incorporate the most recent developments in AI technology.
 
 ## What is speech emotion recognition (SER) ?
 
